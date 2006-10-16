@@ -1,0 +1,165 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeBuildStyle = 014CEA520018CE5811CA2923 /* Debug */;
+		activeExecutable = 653896BA0A1001A3000B25AA /* Sandal */;
+		activeTarget = 8DD76FA90486AB0100D96B5E /* Sandal */;
+		addToTargets = (
+			8DD76FA90486AB0100D96B5E /* Sandal */,
+		);
+		codeSenseManager = 653896C20A1001C3000B25AA /* Code sense */;
+		executables = (
+			653896BA0A1001A3000B25AA /* Sandal */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					300,
+					133,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					131,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					243,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 168821155;
+			PBXWorkspaceStateSaveDate = 168821155;
+		};
+		perUserProjectItems = {
+			653896D10A10021A000B25AA /* PBXTextBookmark */ = 653896D10A10021A000B25AA /* PBXTextBookmark */;
+			653896D20A10021A000B25AA /* PBXTextBookmark */ = 653896D20A10021A000B25AA /* PBXTextBookmark */;
+			653896D60A100286000B25AA /* PBXTextBookmark */ = 653896D60A100286000B25AA /* PBXTextBookmark */;
+		};
+		sourceControlManager = 653896C10A1001C3000B25AA /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* main.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {711, 9940}}";
+			sepNavSelRange = "{7687, 3}";
+			sepNavVisRect = "{{0, 3419}, {711, 429}}";
+			sepNavWindowFrame = "{{179, 188}, {750, 558}}";
+		};
+	};
+	653896BA0A1001A3000B25AA /* Sandal */ = {
+		isa = PBXExecutable;
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Sandal;
+		sourceDirectories = (
+		);
+	};
+	653896C10A1001C3000B25AA /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	653896C20A1001C3000B25AA /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	653896C60A1001E3000B25AA /* fsevents.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {711, 1246}}";
+			sepNavSelRange = "{2799, 0}";
+			sepNavVisRect = "{{0, 817}, {711, 429}}";
+			sepNavWindowFrame = "{{84, 120}, {750, 558}}";
+		};
+	};
+	653896D10A10021A000B25AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.c */;
+		name = "main.c: 3";
+		rLen = 0;
+		rLoc = 26;
+		rType = 0;
+		vrLen = 2080;
+		vrLoc = 0;
+	};
+	653896D20A10021A000B25AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.c */;
+		name = "main.c: 3";
+		rLen = 0;
+		rLoc = 26;
+		rType = 0;
+		vrLen = 725;
+		vrLoc = 2429;
+	};
+	653896D60A100286000B25AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.c */;
+		name = "main.c: 3";
+		rLen = 0;
+		rLoc = 26;
+		rType = 0;
+		vrLen = 725;
+		vrLoc = 2429;
+	};
+	8DD76FA90486AB0100D96B5E /* Sandal */ = {
+		activeExec = 0;
+		executables = (
+			653896BA0A1001A3000B25AA /* Sandal */,
+		);
+	};
+}
